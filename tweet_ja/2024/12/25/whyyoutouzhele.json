@@ -57,7 +57,7 @@
     "views": 107008,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871751079609966795",
@@ -77,7 +77,7 @@
     "views": 58891,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871754889313021996",
@@ -97,7 +97,7 @@
     "views": 33995,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871757268414554420",
@@ -117,7 +117,7 @@
     "views": 27221,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871755378511503360/pu/vid/avc1/464x848/wv1kLGognbLe_6nN.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871757741188100229",
@@ -137,7 +137,7 @@
     "views": 42015,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871757551446200320/pu/vid/avc1/464x848/bwvSGYIXQkrXpfHy.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871758643001245892",
@@ -157,7 +157,7 @@
     "views": 64938,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871764255160332510",
@@ -177,7 +177,7 @@
     "views": 21547,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871763454769643520/pu/vid/avc1/544x960/R9uJaGX1hQOVlvLQ.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871763471618174976/pu/vid/avc1/544x960/rHPFtWO7ubEMdRwk.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871763490106732544/pu/vid/avc1/720x1280/oUOnuK_jh_dxMIlo.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871763490106728448/pu/vid/avc1/720x1280/hQeGCiS1c9GmMWqO.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871765152301011311",
@@ -197,7 +197,7 @@
     "views": 38998,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871764314543312896/pu/vid/avc1/720x1280/8wmQCkdeeKwveZfw.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871767595244040241",
@@ -217,7 +217,7 @@
     "views": 19992,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871765812174114816/pu/vid/avc1/540x952/S4rJcUuLpVMVzKYk.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871772686982259054",
@@ -237,7 +237,7 @@
     "views": 18072,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871771894598492160/pu/vid/avc1/720x1280/j1NvCm8zvNnIp-QY.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871772287369900032/pu/vid/avc1/720x1280/PMZQg2nkN0uSbBLM.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871774980477956484",
@@ -257,7 +257,7 @@
     "views": 15065,
     "originVideos": "https://video.twimg.com/amplify_video/1871774053431984129/vid/avc1/360x638/0Kij_Q3EJ3XC3vH5.mp4?tag=14,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871779342650671506",
@@ -277,7 +277,7 @@
     "views": 12073,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871775033288511488/pu/vid/avc1/544x960/BXZp-MAJcjGWQ0df.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871781338401096122",
@@ -297,7 +297,7 @@
     "views": 6996,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871780361736495104/pu/vid/avc1/720x1280/z2t6YVceZGtGwa8y.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871781990808371576",
@@ -337,7 +337,7 @@
     "views": 5167,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871782357235273728/pu/vid/avc1/1280x720/4r6XYfjpYeyF5gV2.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871784335180959864",
@@ -356,6 +356,126 @@
     "retweets": 0,
     "views": 2714,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871784116380975104/pu/vid/avc1/720x960/RKjh5IAK0FQdVfX-.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1871786355682152505",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 13:13:37",
+    "content": "12月23日、山東省滕州市の市政府前で投資家とみられる人々が拡声器を使って投資家に向かって叫んだが、この動画はDouyinによって削除された。\n12月23日、湖南省衡陽市のヤシリン香源のオーナーらが集まり、「オーナー委員会」を解任した。\n12月22日、湖北省武漢市国波新城のD11インターネット有名人不動産の所有者らが営業部に集まり、自分たちの権利を守るスローガンを叫び、断固として住宅を接収しないようにし、守るべき住宅問題をまとめたポスターを作成した。彼らの権利。ポスターは、その施設に虚偽の広告が多数あることを示しました",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871786355682152505_0.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/25/1871786355682152505_0.jpg,/tweet/video/whyyoutouzhele/2024/12/25/1871786355682152505_1.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 153,
+    "replies": 32,
+    "retweets": 4,
+    "views": 45410,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1871784815131070464/pu/vid/avc1/576x1026/o6dMDBawrd6dBxgu.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871785187543339008/pu/vid/avc1/720x1280/ewetv_jCLvfwXx5H.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1871788193298956354",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 13:20:56",
+    "content": "最近、多くのトラック運転手が自分たちの権利を擁護するために横断幕を掲げ、運賃が低すぎて費用対効果さえないと抗議し、全国的なトラックの３カ月間の営業停止を求めている。\n動画では、貨物プラットフォームは価格を2元/kmかそれ以下（タクシーよりも安い）に引き下げたと述べていますが、この価格はすでに赤字ですが、それでも注文を受けている人がいます。プラットフォームと政府は最低価格を規制し設定する必要がある\nこのビデオでは、抗議活動として国中のトラックを止めるための 3 か月のストライキも呼びかけています。とにかく私たちはすでにお金を失っているので、3 か月間お金を失っても気にしません。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/25/1871788193298956354_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 344,
+    "replies": 94,
+    "retweets": 30,
+    "views": 95924,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1871786918289264640/pu/vid/avc1/720x1280/3L2rK-DaXHfIEWqW.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1871800551543074832",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 14:10:02",
+    "content": "インターネットセキュリティの確保を担当するイランの最高評議会は火曜日、2年以上制限されてきたWhatsAppとGoogle Playの禁止を解除することを可決したと国営メディアが報じた。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871800551543074832_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871800551543074832_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 839,
+    "replies": 81,
+    "retweets": 49,
+    "views": 165317,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871840216132321606",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 16:47:39",
+    "content": "最近、体操選手の呉六芳選手が壇上で処罰され、彼女のファンの数は630万人から4万4000人に激減した。\n 12月24日、Douyin Groupの副社長であるLi Liang氏は、「遠隔動員の判断と取り扱いには大きな違いがあり、依然として関連する国内の法律、規制、指導要件に従って実施する必要がある」と答えた。\n『Sunny and Cheerful Kong Yiji』の著者であるGui Shange氏は、禁止された際に関連法規に違反していたと述べたが、どの法律に違反したのかはまだ理解していないという。",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871840216132321606_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871840216132321606_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 155,
+    "replies": 52,
+    "retweets": 15,
+    "views": 16846,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871842975703339372",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 16:58:37",
+    "content": "「悪意のある記憶はない」\n 12月25日、あるブロガーが10年前のクリスマスを祝うCCTVと人民日報のWeiboアカウントを投稿したが、その画像はプラットフォームによってブロックされた。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871842975703339372_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871842975703339372_1.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871842975703339372_2.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871842975703339372_3.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 132,
+    "replies": 21,
+    "retweets": 13,
+    "views": 12735,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871844703169302852",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 17:05:29",
+    "content": "2011年から2024年までのクリスマスイブの映画興行収入データによると、今年のクリスマスイブの映画興行収入は、感染症流行時よりもさらに悪化して急落していることが示されている。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871844703169302852_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871844703169302852_1.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871844703169302852_2.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 62,
+    "replies": 24,
+    "retweets": 1,
+    "views": 7812,
+    "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": false
   }
