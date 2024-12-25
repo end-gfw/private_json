@@ -417,7 +417,7 @@
     "views": 165317,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871840216132321606",
@@ -437,7 +437,7 @@
     "views": 16846,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871842975703339372",
@@ -457,7 +457,7 @@
     "views": 12735,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871844703169302852",
@@ -477,7 +477,7 @@
     "views": 7812,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871850200563892343",
@@ -497,7 +497,7 @@
     "views": 48198,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871852976668848282",
@@ -517,7 +517,7 @@
     "views": 48368,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871855329224568906",
@@ -537,7 +537,7 @@
     "views": 113560,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871855060948525056/pu/vid/avc1/720x1280/Tm11Rz94AHYfhPQ7.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871858919687295116",
@@ -557,7 +557,7 @@
     "views": 59493,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871862971619766751",
@@ -577,7 +577,7 @@
     "views": 131374,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871862200593469440/pu/vid/avc1/720x1280/0s3fWFYzfuK3vbUu.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871868076557529117",
@@ -597,7 +597,7 @@
     "views": 46495,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871867919673491456/pu/vid/avc1/576x1280/yCSs2m-hDUlJzQZD.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871872403569328626",
@@ -617,7 +617,7 @@
     "views": 79688,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871872167111241729/pu/vid/avc1/720x1280/nhdwiZMyoHkRKNZ6.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871872169816489984/pu/vid/avc1/720x1280/CkysTtOzXBgH1HoG.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871872201412296704/pu/vid/avc1/720x1280/eJGfX0X1-wTq6XDY.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871875110132658653",
@@ -637,7 +637,7 @@
     "views": 65696,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871878163724443986",
@@ -657,7 +657,7 @@
     "views": 36775,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871881216783430080",
@@ -677,7 +677,7 @@
     "views": 42319,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871883142115819598",
@@ -697,7 +697,7 @@
     "views": 56079,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871886181614702836",
@@ -717,7 +717,7 @@
     "views": 84650,
     "originVideos": "https://video.twimg.com/ext_tw_video/1871885130136182784/pu/vid/avc1/720x1280/yLuF06ja97iiSfIO.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1871890466960224516",
@@ -815,6 +815,126 @@
     "replies": 3,
     "retweets": 1,
     "views": 501,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871909494260908509",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 21:22:56",
+    "content": "12月25日、広東省梅州市。インターネットにより、五華県の水寨中学校では全生徒に次の誓約書への署名を義務付けていることが明らかになった。\n「もし私が自殺や自傷行為をしたとしても、それは学校とは何の関係もありません。私、私の両親、保護者はいかなる理由であっても学校に対して損失や賠償を請求しません。」",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871909494260908509_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 452,
+    "replies": 43,
+    "retweets": 47,
+    "views": 91881,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871913591210979452",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 21:39:13",
+    "content": "12月19日、甘粛政法大学マルクス主義学部は「存在しない文化的信頼の強化」という取り組みを発表した。\n「マルクスとエンゲルスの全集」の通信巻には次のように記載されています。 1868 年、マルクスはエンゲルスに次のような手紙を書きました。「今度のクリスマス週間に数ポンド送っていただければ、大歓迎です。」 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871913591210979452_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871913591210979452_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 687,
+    "replies": 110,
+    "retweets": 67,
+    "views": 135627,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871920018847600951",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 22:04:45",
+    "content": "「どちらでも使いやすい、自由に切り替えられる」",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871920018847600951_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871920018847600951_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 368,
+    "replies": 46,
+    "retweets": 27,
+    "views": 90468,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871928120435220772",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 22:36:57",
+    "content": "12月25日、外務省：中国と日本は10の合意に達した。\n そこには、両国の初等中等学校間の姉妹校設立を支援することが記載されていた。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871928120435220772_0.jpg,/tweet/image/whyyoutouzhele/2024/12/25/1871928120435220772_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 566,
+    "replies": 133,
+    "retweets": 49,
+    "views": 146434,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871935425964839160",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 23:05:59",
+    "content": "12月25日（発売）河南省。大学生は労働法に準拠した仕事を見つけようと挑戦したが、男性は続けて複数の仕事の面接を受けたが、人事部が提示した福利厚生は基本的に月給3000未満で、1日あたり10時間以上働かなければならなかった。残業代も5金もなしの日。\n 職員の一人は、最初の月の給料はわずか1000元だったと語った。「河南省にいると、工場に入社しなければ、5つの保険と1つの住宅資金を備えた仕事を見つけることはできない」。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/25/1871935425964839160_0.jpg,/tweet/video/whyyoutouzhele/2024/12/25/1871935425964839160_1.jpg,/tweet/video/whyyoutouzhele/2024/12/25/1871935425964839160_2.jpg,/tweet/video/whyyoutouzhele/2024/12/25/1871935425964839160_3.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 629,
+    "replies": 111,
+    "retweets": 77,
+    "views": 139814,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1871934612278317056/pu/vid/avc1/720x1280/zNKqhUOinH-6SCaG.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871934627704889346/pu/vid/avc1/720x1280/-Rd3HqMx3oOoC-aC.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871934642716344320/pu/vid/avc1/720x1280/KVGcrXV0BiWcpzTQ.mp4?tag=12,https://video.twimg.com/ext_tw_video/1871934653965484032/pu/vid/avc1/720x1280/qfCO76MDJ5EjfJLR.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1871944512953823275",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-25 23:42:05",
+    "content": "胡錫進氏は12月24日、社会の一部の若者はクリスマスイブを過ぎ去った休日だと考えており、社会はこの状況を支持する雰囲気を提供していない、と投稿した。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/25/1871944512953823275_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 251,
+    "replies": 71,
+    "retweets": 12,
+    "views": 60616,
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": false
