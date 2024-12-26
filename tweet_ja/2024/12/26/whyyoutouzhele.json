@@ -37,7 +37,7 @@
     "views": 38404,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872083541313634353",
@@ -57,7 +57,7 @@
     "views": 28053,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872101858174771474",
@@ -77,7 +77,7 @@
     "views": 49707,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872098572948410368/pu/vid/avc1/720x1280/7-FOt3jkQU8xEzm6.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872103621355241574",
@@ -97,7 +97,7 @@
     "views": 56026,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872104644157304876",
@@ -117,7 +117,7 @@
     "views": 40736,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872105865534410976",
@@ -157,7 +157,7 @@
     "views": 35258,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872111034531741696/pu/vid/avc1/720x1280/MQ24Ymuzf9F4pGH7.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872115296687005811",
@@ -177,7 +177,7 @@
     "views": 43496,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872114231690297344/pu/vid/avc1/720x1280/UKuZW37ignfLYJhB.mp4?tag=12,https://video.twimg.com/ext_tw_video/1872114275038396416/pu/vid/avc1/960x720/XCbMXUliQ94JzHsv.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872116072259952807",
@@ -197,7 +197,7 @@
     "views": 98617,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872115339645145089/pu/vid/avc1/720x1280/fFO317qDvF7nhzCs.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872119432065241588",
@@ -217,7 +217,7 @@
     "views": 46264,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872118149304504320/pu/vid/avc1/464x848/zhCvM_49AaaG4Ldk.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872120316962775192",
@@ -257,7 +257,7 @@
     "views": 37679,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872124338306257364",
@@ -277,7 +277,7 @@
     "views": 41629,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872122598282424320/pu/vid/avc1/1266x720/rml9A0GuAIwUIlzi.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872126178317971743",
@@ -297,7 +297,7 @@
     "views": 26459,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872129282597851516",
@@ -317,7 +317,7 @@
     "views": 55875,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872130675471691872",
@@ -337,7 +337,7 @@
     "views": 22306,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872131987387142375",
@@ -357,7 +357,7 @@
     "views": 23731,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872133213260542203",
@@ -377,7 +377,7 @@
     "views": 27848,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872134092948660269",
@@ -397,7 +397,7 @@
     "views": 25164,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872135480973898169",
@@ -417,6 +417,105 @@
     "views": 21346,
     "originVideos": "",
     "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1872163741955240045",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-26 14:13:13",
+    "content": "12月24日、ネチズンはファーウェイの顧客サービスに電話し、カレンダーの「クリスマスイブ」のマークを「長津湖の戦いの勝利の日」に変更するよう提案した。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/26/1872163741955240045_0.jpg,/tweet/image/whyyoutouzhele/2024/12/26/1872163741955240045_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 503,
+    "replies": 163,
+    "retweets": 24,
+    "views": 118982,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1872201600250589209",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-26 16:43:39",
+    "content": "12月26日、北京。ネットユーザーは、地元の村の幹部が村民に対し、27日に村人民代表大会の代表選挙に参加するために村委員会に行くよう要請し、王京副市長を人民代表大会の代表に選出すれば10元を受け取ると述べたと明らかにした。補助金。 ",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/26/1872201600250589209_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 81,
+    "replies": 33,
+    "retweets": 9,
+    "views": 15340,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1872204786768167072",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-26 16:56:19",
+    "content": "12月24日、山西省太原市。呉越広場のクリスマスツリーにあるギフトボックスが顧客によって略奪され、顧客がクリスマスツリーに登ってギフトボックスを引き剥がす様子がビデオで映され、混乱した光景が広がった。現場にいた誰かが「動くな、電気が流れている！」と叫んだ。\n モールのスタッフは「箱の中には何も入っていない。ただの飾りだ」と答えた。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/26/1872204786768167072_0.jpg,/tweet/video/whyyoutouzhele/2024/12/26/1872204786768167072_1.jpg,/tweet/video/whyyoutouzhele/2024/12/26/1872204786768167072_2.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 134,
+    "replies": 44,
+    "retweets": 23,
+    "views": 13080,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1872204672809021440/pu/vid/avc1/720x1280/txEn-m64HdBQP9RV.mp4?tag=12,https://video.twimg.com/ext_tw_video/1872204681327591424/pu/vid/avc1/720x1280/QbKZ_5VM8jTWKRws.mp4?tag=12,https://video.twimg.com/ext_tw_video/1872204696049627137/pu/vid/avc1/720x1280/W1yIm3Uh3748Tfco.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1872208405701722573",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-26 17:10:42",
+    "content": "12月25日夜、四川省成都。三里広場のクリスマスツリーが照明のショートにより突然発火し、濃い煙が上がった。\n ネチズンは「神は外国人を崇拝することに耐えられない」と答えた。\n「もし私がそこにいたら、中華人民共和国万歳と叫ぶでしょう！」",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/26/1872208405701722573_0.jpg,/tweet/image/whyyoutouzhele/2024/12/26/1872208405701722573_1.jpg,/tweet/image/whyyoutouzhele/2024/12/26/1872208405701722573_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/26/1872208405701722573_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 29,
+    "replies": 7,
+    "retweets": 6,
+    "views": 2946,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1872208232137347073/pu/vid/avc1/720x1280/kPrV5Kw6gvUJaswR.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1872208514908856366",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-26 17:11:08",
+    "content": "https://t.co/mPfD8rFc8M",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/26/1872208514908856366_0.jpg,/tweet/image/whyyoutouzhele/2024/12/26/1872208514908856366_1.jpg,",
+    "videos": "",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 6,
+    "replies": 3,
+    "retweets": 0,
+    "views": 1943,
+    "originVideos": "",
     "hasPublished": false
   }
 ]
