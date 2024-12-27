@@ -17,7 +17,7 @@
     "views": 32482,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872676777367335410",
@@ -37,7 +37,7 @@
     "views": 36802,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872676492255375360/pu/vid/avc1/720x720/oTSLv5BDnG2ZFiV5.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872681821445783916",
@@ -57,7 +57,7 @@
     "views": 16973,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872681433543909376/pu/vid/avc1/408x720/0GucfloabIvf_3dH.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872683667019210931",
@@ -97,7 +97,7 @@
     "views": 10591,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872685758479515648/pu/vid/avc1/720x1280/veolmCPx7Bx3tmfd.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1872689073246351504",
@@ -117,6 +117,46 @@
     "views": 5751,
     "originVideos": "https://video.twimg.com/ext_tw_video/1872688902366216196/pu/vid/avc1/720x1276/HGRfnlzEx3dKmgRt.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
+  },
+  {
+    "id": "1872693217743065161",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-28 01:17:10",
+    "content": "かつて靖国神社前で放火した劉強氏は最近、サンタ帽をかぶって中国語と英語で皆にメリークリスマスを祈ったが、ファンから批判を浴びた。\n ファンからは「変わったね」と言われました\n「強兄弟、あなたがこの帽子をかぶるのは不適切です。」\n主人公は鋼になれなかった鉄を憎んでいると思っているのでしょう。",
+    "images": "/tweet/image/whyyoutouzhele/2024/12/28/1872693217743065161_0.jpg,/tweet/image/whyyoutouzhele/2024/12/28/1872693217743065161_1.jpg,/tweet/image/whyyoutouzhele/2024/12/28/1872693217743065161_2.jpg,",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/28/1872693217743065161_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 228,
+    "replies": 35,
+    "retweets": 20,
+    "views": 47319,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1872693051510145034/pu/vid/avc1/720x1280/ROmhBCE9xTs8ksok.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1872724322198159807",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-28 03:20:46",
+    "content": "12月27日、陝西省。出稼ぎ労働者たちは全員、会社の外でひざまずいて賃金を求めた。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2024/12/28/1872724322198159807_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 109,
+    "replies": 46,
+    "retweets": 11,
+    "views": 15703,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1872723634248400896/pu/vid/avc1/720x1280/CxbSTt8AGVRd-fMR.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
   }
 ]
