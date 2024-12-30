@@ -438,7 +438,7 @@
     "views": 48086,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873668763788447760",
@@ -458,7 +458,7 @@
     "views": 43501,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873668324653178880/pu/vid/avc1/576x1280/KXiVkSGSyelM0KIS.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873668342294441984/pu/vid/avc1/720x1280/eUhAo_s3hbNSfJdL.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873671196627423360",
@@ -478,7 +478,7 @@
     "views": 85295,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873678517004837345",
@@ -498,7 +498,7 @@
     "views": 45788,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873678455684120576/pu/vid/avc1/576x1128/NEQObdyeKScGGehE.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873683984317899168",
@@ -518,7 +518,7 @@
     "views": 64527,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873683102687764480/pu/vid/avc1/1280x720/8zaKpEV0me6ZzFjN.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873688923924537411",
@@ -538,7 +538,7 @@
     "views": 48148,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873688104005177344/pu/vid/avc1/1280x720/OXA_6dXbJ4-HsQ8f.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873693832086536488",
@@ -558,7 +558,7 @@
     "views": 34628,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873704181405806940",
@@ -578,7 +578,7 @@
     "views": 25947,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873704421403840715",
@@ -598,7 +598,7 @@
     "views": 22716,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873710691913515374",
@@ -618,7 +618,7 @@
     "views": 12079,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873717141599613106",
@@ -658,7 +658,7 @@
     "views": 256,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873717635369807872/pu/vid/avc1/408x724/HSeAcraLbhWDfv0l.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873724224139042992",
@@ -678,7 +678,7 @@
     "views": 113225,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873728340936560657",
@@ -698,7 +698,7 @@
     "views": 52068,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873727847732551680/pu/vid/avc1/720x1280/itL2nBwQ6cV6DCTR.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873727853348765696/pu/vid/avc1/720x1280/U54hzyUa8Qedag3v.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873727864010579968/pu/vid/avc1/720x1280/REqFmWHrDbBEr5qS.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873727879923838976/pu/vid/avc1/848x464/GMDH3CqgTI6uVtwV.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873731538279629064",
@@ -738,7 +738,7 @@
     "views": 92295,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873734025652871168/pu/vid/avc1/720x1280/BNf4Cn6RF0YsY-PL.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873739010977493180",
@@ -859,5 +859,25 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": false
+  },
+  {
+    "id": "1873698306452590876",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-30 20:06:17",
+    "content": "最近、コメディアンの「ダービン」がソーシャルメディアプラットフォームで自身の製品「Xijiu」を宣伝したが、生放送室の上にあるタイトルが「Xijiu放蕩スペシャル」だったため、一部のネチズンはこれを習近平と連想した。  その後、大冰氏は生放送室の「放蕩」という言葉を削除し、「西九新年グッズ祭り」に変更した。現在、関連する生放送動画はプラットフォームによって次々と削除されている。",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1873716850896535995",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2024-12-30 21:07:10",
+    "content": "RT @Li_memecoin: 最初の $Li 公的資金調達プロジェクトの新年にあたり、私たちは最初の公的資金調達イベントを開催しようとしています。資金調達の種類は皆さんによって決定されます。次の 4 つのプロジェクトの中から、最も価値があると思うものを選択してください。皆さんの決断を実行していきます。もちろん、他にもっと良いアイデアがある場合は、興味深いと思われるプロジェクトを私たちの電子メールに送信することもできます: x...",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
   }
 ]
