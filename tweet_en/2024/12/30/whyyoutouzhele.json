@@ -698,7 +698,7 @@
     "views": 52068,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873727847732551680/pu/vid/avc1/720x1280/itL2nBwQ6cV6DCTR.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873727853348765696/pu/vid/avc1/720x1280/U54hzyUa8Qedag3v.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873727864010579968/pu/vid/avc1/720x1280/REqFmWHrDbBEr5qS.mp4?tag=12,https://video.twimg.com/ext_tw_video/1873727879923838976/pu/vid/avc1/848x464/GMDH3CqgTI6uVtwV.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873731538279629064",
@@ -738,7 +738,7 @@
     "views": 92295,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873734025652871168/pu/vid/avc1/720x1280/BNf4Cn6RF0YsY-PL.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873739010977493180",
@@ -758,7 +758,7 @@
     "views": 119610,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873745051010117989",
@@ -778,7 +778,7 @@
     "views": 42226,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873744870285950976/pu/vid/avc1/720x1280/y0vK6jC-0gkbjRnY.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873748432881668527",
@@ -798,7 +798,7 @@
     "views": 69916,
     "originVideos": "https://video.twimg.com/ext_tw_video/1873748024297734144/pu/vid/avc1/1280x720/hQk0XkMadVqKCJ8h.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873750039346229729",
@@ -818,7 +818,7 @@
     "views": 40212,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873754166855926005",
@@ -838,7 +838,7 @@
     "views": 173168,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1873758622691610666",
@@ -858,6 +858,6 @@
     "views": 35217,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
