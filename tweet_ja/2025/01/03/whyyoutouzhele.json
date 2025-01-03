@@ -38,5 +38,25 @@
     "originVideos": "https://video.twimg.com/ext_tw_video/1874862291142995968/pu/vid/avc1/720x1280/MHcUBQmWWt2vVMwB.mp4?tag=12,",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1874898678026293464",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-03 03:20:53",
+    "content": "1月2日早朝、湖南省長沙。荘新高等学校の食堂で、何者かが眠っている老人に冷水をかけた。\n 高齢者の家族：昨年、学校の食堂を契約し、保証金500万元を支払ったが、学校は依然として170万元以上を滞納している。老人は保証金と食費を取り戻すため、食堂に寝泊まりして金を無心した。 ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/03/1874898678026293464_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 945,
+    "replies": 89,
+    "retweets": 153,
+    "views": 331360,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1874896702215434240/pu/vid/avc1/1280x720/mKdessTDi2nv3FN-.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
