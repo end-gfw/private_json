@@ -718,7 +718,7 @@
     "views": 105691,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875528989902807040/pu/vid/avc1/574x1280/Ffa7qaZWMq38o9_D.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875531297726271605",
@@ -738,7 +738,7 @@
     "views": 81172,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875530745701396482/pu/vid/avc1/544x960/AXuauBrrvnJg8a7-.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875537636682821857",
@@ -758,7 +758,7 @@
     "views": 57651,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875542211531862305",
@@ -778,7 +778,7 @@
     "views": 59450,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875541925228638210/pu/vid/avc1/720x1280/POKr1COzwMFoAUAi.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875545477938343987",
@@ -798,7 +798,7 @@
     "views": 172704,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875545342386827265/pu/vid/avc1/408x724/I_wELudpgiiJViou.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875547903005225151",
@@ -838,7 +838,7 @@
     "views": 55621,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875555796563681737",
@@ -858,7 +858,7 @@
     "views": 111872,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875561681990119650",
@@ -878,6 +878,6 @@
     "views": 49726,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875561149112139776/pu/vid/avc1/720x1280/klBl1n3Gnhk8V53f.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
