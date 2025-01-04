@@ -318,7 +318,7 @@
     "views": 31430,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875428738525253632/pu/vid/avc1/720x1280/yKlBNqXqOLtYKy0h.mp4?tag=12,https://video.twimg.com/ext_tw_video/1875428779876872193/pu/vid/avc1/1280x720/g8JoXcjHIovO0muo.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875432570827247813",
@@ -338,7 +338,7 @@
     "views": 100125,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875432259534385155/pu/vid/avc1/1270x720/rLU16STOrcvUUT2g.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875432752298020885",
@@ -358,7 +358,7 @@
     "views": 31390,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875430423326814211/pu/vid/avc1/720x960/QD2R_yYIFGawPrRF.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875433022574780809",
@@ -398,7 +398,7 @@
     "views": 43097,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875436410855112704/pu/vid/avc1/720x1280/V81ste5Qd-ML2gSe.mp4?tag=12,https://video.twimg.com/ext_tw_video/1875436432183193607/pu/vid/avc1/720x1280/fj2KBe0FiK_EGOJf.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875464590324330775",
@@ -418,7 +418,7 @@
     "views": 19447,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875463115766460416/pu/vid/avc1/720x1280/RUiiuWlXEGdYikkB.mp4?tag=12,https://video.twimg.com/ext_tw_video/1875463145583775744/pu/vid/avc1/720x1280/wwb9X_PFTzlXBahZ.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1875470228790112507",
@@ -438,6 +438,6 @@
     "views": 2157,
     "originVideos": "https://video.twimg.com/ext_tw_video/1875468900487639040/pu/vid/avc1/1280x720/Q4iqCBfrXQLMgaWC.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
