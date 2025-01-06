@@ -1460,5 +1460,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1876291969644982473",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-06 23:39:07",
+    "content": "Chunghwa Telecom and the Taiwan Coast Guard said the Chinese cargo ship Shunxing 39 damaged a communications cable near Keelung Port on the morning of January 3. The ship has sailed to South Korea. Taiwan has asked South Korea to assist in the investigation. The ship flies the Cameroon flag, but Taiwanese officials said it belongs to Jieyang Trading Co., Ltd., whose owner is Chinese citizen Guo Wenjie (sound).",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
