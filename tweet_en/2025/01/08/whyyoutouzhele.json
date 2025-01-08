@@ -1038,5 +1038,15 @@
     "originVideos": "https://video.twimg.com/ext_tw_video/1877017449285156864/pu/vid/avc1/720x1280/pRDpjpEmDsJGEsZ-.mp4?tag=12,",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1876979882225233943",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-08 21:11:46",
+    "content": "January 7 (Release) A Henan Village Bank depositor received a call from the police after he said in a WeChat group that he was going to petition. The police told the depositor to petition the higher authorities step by step, but were unwilling to tell the depositor his name and police number.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
