@@ -659,5 +659,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": false
+  },
+  {
+    "id": "1878457995274879211",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-12 23:17:26",
+    "content": "1月8日、ネットユーザーがAIを利用して「地震で埋もれた子供たち」の写真を生成したと報じられ、関係者が拘束された。 AIを使って生成したガザの画像は共感を呼び、AIを使って「アメリカの山火事で燃えたハリウッドの看板」の画像がホット検索となりトラフィックを獲得した。",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
