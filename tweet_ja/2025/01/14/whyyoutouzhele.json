@@ -557,7 +557,7 @@
     "views": 99148,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879192493016981686",
@@ -596,6 +596,16 @@
     "retweets": 10,
     "views": 37777,
     "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1879185925043044569",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-14 23:18:15",
+    "content": "最近、河南省鄭州。ある女性は、自宅の地下室で火災が発生し、自分の車のフォルクスワーゲンID3が全焼したと投稿したが、その後、彼女の車は2時間にわたって燃え続けていたが、バッテリーは無事だったという。近くの路面電車のバッテリーの自然発火が原因。相手方と連絡を取ったところ、相手方は保険会社が支払いを拒否し、メーカーも立場を表明せず互いに非難し合い、ネット上では発言が規制された。 上汽フォルクスワーゲンは、「真新しいID3を納入する」と回答した。",
     "hasFullContentTranslated": true,
     "hasPublished": false
   }
