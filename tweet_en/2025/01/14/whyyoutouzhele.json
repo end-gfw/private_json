@@ -598,5 +598,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1879185925043044569",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-14 23:18:15",
+    "content": "Recently, in Zhengzhou, Henan, a woman posted that a fire broke out in the basement of her home, causing her beloved Volkswagen ID3 to be burned to a shell. Later, she learned that her car had been burned for two hours, but the battery was intact. The fire was caused by the spontaneous combustion of the battery of the electric car next to it. She contacted the other party, who said that the insurance company refused to pay the compensation, and the manufacturer did not make a statement and blamed each other. She was also restricted from speaking out online. SAIC Volkswagen responded: It will deliver a brand new ID3 to her.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
