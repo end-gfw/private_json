@@ -534,7 +534,7 @@
     "views": 71498,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879504429667483668",
@@ -555,7 +555,7 @@
     "originVideos": "",
     "hasFullContentTranslated": false,
     "fullContent": "美国《新闻周刊》：中国最大的航空公司中国南方航空公司，于1月底暂停北京飞莫斯科的航班。这一出人意料的举动正值中国春节前夕。报道称，这对俄罗斯总统普京来说是一个打击。\n 据俄罗斯旅行社协会(ATORUS) 估计，这一变化可能会影响1.5万至1.7万人的旅行计划，并援引旅游业消息人士的话说，到目前为止，最令人担忧的是那些经由中国首都前往第三国的人。\n  2024年第一季度，俄罗斯边境当局登记的国际游客总数为21.8万人次，其中中国公民占近一半。\n 中国南方航空公司没有提供取消航班的明确原因，一家旅行社告诉ATOR，该航空公司一直无视解释的要求。\n 欧洲航空安全局建议外国航空公司避开东经60度以西的地区，该地区经过俄罗斯乌拉尔山脉地区，因为俄罗斯和乌克兰的冲突增加了风险。",
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879507810092016034",
@@ -575,7 +575,7 @@
     "views": 112666,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879512680937251034",
@@ -595,7 +595,7 @@
     "views": 283189,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879515632372453784",
@@ -615,7 +615,7 @@
     "views": 95989,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879518284074319950",
@@ -635,7 +635,7 @@
     "views": 60384,
     "originVideos": "https://video.twimg.com/ext_tw_video/1879517550448623616/pu/vid/avc1/544x960/kUqOYez8UbH6ugi8.mp4?tag=12,https://video.twimg.com/ext_tw_video/1879517557704830976/pu/vid/avc1/720x1280/epBqRg9tRJMmc1BI.mp4?tag=12,https://video.twimg.com/ext_tw_video/1879517568534556672/pu/vid/avc1/720x1280/yMJV6wBZDDvMP3qR.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879522221078745462",
@@ -655,7 +655,7 @@
     "views": 155665,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879528266496921998",
@@ -675,7 +675,7 @@
     "views": 56261,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879530349526667447",
@@ -695,7 +695,7 @@
     "views": 53295,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879534152053346748",
@@ -715,7 +715,7 @@
     "views": 57295,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879536358471192784",
@@ -735,7 +735,7 @@
     "views": 46481,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879540863094894788",
@@ -755,7 +755,7 @@
     "views": 78553,
     "originVideos": "https://video.twimg.com/ext_tw_video/1879539648063795200/pu/vid/avc1/640x360/pl0uxSOdmykEUCdB.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879542925778165853",
@@ -775,7 +775,7 @@
     "views": 62800,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879549894215840034",
@@ -795,7 +795,7 @@
     "views": 57185,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879555835321630747",
@@ -815,6 +815,6 @@
     "views": 69430,
     "originVideos": "https://video.twimg.com/ext_tw_video/1879553866385256449/pu/vid/avc1/1280x712/CTXIQ8F64-HKf86E.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
