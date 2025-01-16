@@ -818,5 +818,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1879901453604786469",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-16 22:47:37",
+    "content": "Economists predict that China is expected to suffer the longest period of deflation since the Mao Zedong era, according to Bloomberg. According to most economists' forecasts, deflation will continue for a second consecutive year in 2024, with official data expected to be released on Friday. Some major Wall Street banks, including JPMorgan Chase and Citigroup, predict that deflation may continue until 2025.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
