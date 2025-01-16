@@ -37,7 +37,7 @@
     "views": 26535,
     "originVideos": "https://video.twimg.com/ext_tw_video/1879562319199649792/pu/vid/avc1/360x636/7b_vW7z8QqeSEoVQ.mp4?tag=12,https://video.twimg.com/ext_tw_video/1879562325038178304/pu/vid/avc1/624x960/cEXeJZzEz3wuHzfd.mp4?tag=12,https://video.twimg.com/ext_tw_video/1879562331732201472/pu/vid/avc1/720x1280/aw2HRXpcIpQZYKKz.mp4?tag=12,https://video.twimg.com/ext_tw_video/1879562342444441600/pu/vid/avc1/720x1280/H7EzN2X2qXnMfHhd.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879567636763476277",
@@ -57,7 +57,7 @@
     "views": 15239,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879570109079163340",
@@ -97,7 +97,7 @@
     "views": 5000,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1879574883719676363",
@@ -117,6 +117,46 @@
     "views": 7443,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
+  },
+  {
+    "id": "1879579691646144585",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-16 01:21:34",
+    "content": "最近、湖南省徐浦の茶湾村の多くの村民が、村にある項家の先祖代々の墓が掘削機によって損傷されたと報告した。村民らは、祖先の墓は清朝時代のものだと主張し、「過去数百年間で５つの墓が掘り起こされ、棺や碑文などが失われた」と説明を求めて県政府を取り囲んだ。 ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/16/1879579691646144585_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 510,
+    "replies": 76,
+    "retweets": 69,
+    "views": 113942,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1879578824217960449/pu/vid/avc1/720x1280/JiqFjDzkoWJCT0We.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1879691862736511100",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-16 08:47:17",
+    "content": "なんと奇妙な偶然だろうか。ミャンマー北部の行方不明事件の50％以上が警察に届け出られていないという統計を私たちがツイートしてから2時間半後の時点で、中国時間の午後8時半だった。\n「公安省」は、連絡が取れなくなり海外に閉じ込められている中国人の状況を整理し、救出の調整に全力を尽くすとの文書を発表した。\nこの文書が中国で発表され、国内の主要メディアに掲載され、激しい議論が巻き起こってから現時点で1週間が経過している。\n公安省の深夜残業に感謝します。人身売買された人々が早く帰宅できることを願っています。",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/16/1879691862736511100_0.jpg,/tweet/image/whyyoutouzhele/2025/01/16/1879691862736511100_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 325,
+    "replies": 73,
+    "retweets": 35,
+    "views": 54847,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
   }
 ]
