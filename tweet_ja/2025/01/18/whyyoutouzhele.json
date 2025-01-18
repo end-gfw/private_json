@@ -78,5 +78,25 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1880336309337878704",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-18 03:28:05",
+    "content": "1月17日（公開） 安徽省消防生放送室でネットユーザーは「なぜ兵団の規律検査委員会への電話が通じないのか？応答できるのか？」とコメントした。\n このネットユーザーは安徽省消防局によって直ちに出入り禁止となった。 ",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/18/1880336309337878704_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 614,
+    "replies": 52,
+    "retweets": 40,
+    "views": 91081,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
