@@ -737,7 +737,7 @@
     "views": 79461,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1880631131084829139",
@@ -757,7 +757,7 @@
     "views": 52014,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1880633211178602852",
@@ -777,7 +777,7 @@
     "views": 42548,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1880639965723517274",
@@ -797,7 +797,7 @@
     "views": 63144,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1880641552545927588",
@@ -817,6 +817,6 @@
     "views": 43704,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
