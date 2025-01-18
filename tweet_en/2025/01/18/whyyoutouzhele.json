@@ -78,5 +78,25 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1880336309337878704",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-18 03:28:05",
+    "content": "January 17 (Release) A netizen commented in the Anhui Fire Department live broadcast room: \"Why can't I get through to your corps' Discipline Inspection Commission? Can you reply?\" \nThe netizen was immediately banned by Anhui Fire Department.",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/18/1880336309337878704_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 614,
+    "replies": 52,
+    "retweets": 40,
+    "views": 91081,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
   }
 ]
