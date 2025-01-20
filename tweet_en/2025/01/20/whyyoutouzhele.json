@@ -477,7 +477,7 @@
     "views": 76456,
     "originVideos": "https://video.twimg.com/ext_tw_video/1881336050297311232/pu/vid/avc1/720x1280/MWqq12btuwJpm7qv.mp4?tag=12,https://video.twimg.com/ext_tw_video/1881336057058508800/pu/vid/avc1/544x960/y3b6cxV3whq0p5Ng.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1881341671344083103",
@@ -497,7 +497,7 @@
     "views": 51132,
     "originVideos": "https://video.twimg.com/ext_tw_video/1881341410844319744/pu/vid/avc1/720x1280/rl8nFGjsBvsd02mE.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1881347635086541043",
@@ -517,7 +517,7 @@
     "views": 162362,
     "originVideos": "https://video.twimg.com/ext_tw_video/1881347157535637506/pu/vid/avc1/576x1024/v2ThxmP2MTCmDtOM.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1881352442895647069",
@@ -537,7 +537,7 @@
     "views": 66350,
     "originVideos": "https://video.twimg.com/ext_tw_video/1881351927956652033/pu/vid/avc1/608x1080/VIJyHPZr_mFdUrp_.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1881359256785703200",
@@ -558,7 +558,7 @@
     "originVideos": "",
     "hasFullContentTranslated": false,
     "fullContent": "华尔街日报：北京表示2024年经济同比增长5% 但各种疲软的信号让一些经济学家质疑数据的真实性。\n 中国公布24年经济增长实现5%，完成官方目标，但一些外部经济学家表示，与GDP整体数据强劲表现形成对比的是，其他一系列数据则描绘出一幅更为疲软的经济图景，比如消费者通胀、税收收入和线上支出表现乏力。中国经济仍深陷房地产低迷困境，并在通货紧缩边缘徘徊。\n 康奈尔大学(Cornell University)贸易政策和经济学教授、国际货币基金组织(International Monetary Fund)前中国区负责人普拉萨德(Eswar Prasad)表示：“这些增长数据超出了可信范畴，无助于建立信心，也无助于改变中国经济举步维艰的局面。”\n 总部位于纽约的研究机构荣鼎集团(Rhodium Group)利用这些数据和其他数据，对2024年中国经济增长做出了自己的估计。荣鼎集团预计2024年中国经济增长率约为2.8%，高于其估计的2023年2.4%的增速，但远低于中国国家统计局周五公布的官方数据。",
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1881366022348996662",
@@ -578,6 +578,6 @@
     "views": 56804,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
