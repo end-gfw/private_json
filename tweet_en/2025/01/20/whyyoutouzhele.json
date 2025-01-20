@@ -579,5 +579,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1881296279248289819",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-20 19:03:24",
+    "content": "Professor Ouyang Haifeng of Xi'an International Medical Center Hospital talks about how he chooses \"original drugs\" or \"generic drugs\", and what the difference is between \"original drugs\" and \"generic drugs\".",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
