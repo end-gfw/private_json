@@ -58,5 +58,25 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1881424983249056241",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-21 03:34:05",
+    "content": "1月20日（公開）河北省三河市。上上城三吉コミュニティの近くで、男が路上でナイフで人を刺し、被害者は悲痛な叫び声を上げた。 ",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/21/1881424983249056241_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 1093,
+    "replies": 210,
+    "retweets": 158,
+    "views": 290507,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1881424823152472064/pu/vid/avc1/720x1280/O1zMqbkSvbeRFR4x.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
