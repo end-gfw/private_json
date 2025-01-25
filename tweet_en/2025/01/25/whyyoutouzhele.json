@@ -619,5 +619,15 @@
     "originVideos": "https://video.twimg.com/ext_tw_video/1883182269021794304/pu/vid/avc1/720x1280/jqOu_RBk3_OLg-uX.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883182285123624961/pu/vid/avc1/720x1280/mLE79v3vdTQ407Ak.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883182299380154369/pu/vid/avc1/720x1280/y40AiuDxuki6r0mG.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883182318048915456/pu/vid/avc1/720x1280/uPiVkYC9VSOo4JaZ.mp4?tag=12,",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1883141119413977550",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-25 21:21:04",
+    "content": "Truck driver Lu Ge drove alone to transport goods from Suqian to Guiyang, a total distance of 1,710 kilometers. The express company required him to deliver the goods within 27 hours and 40 minutes, and he would be charged for overtime. Official regulations require truck drivers to take a 20-minute break every 4 hours of driving.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
