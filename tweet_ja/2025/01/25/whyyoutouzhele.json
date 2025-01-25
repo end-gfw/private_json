@@ -478,7 +478,7 @@
     "views": 73637,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883153466757173507",
@@ -498,7 +498,7 @@
     "views": 63989,
     "originVideos": "https://video.twimg.com/ext_tw_video/1883152904460410880/pu/vid/avc1/720x1280/8M31cQ3758dbhMwY.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883158398516261270",
@@ -518,7 +518,7 @@
     "views": 52631,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883162728996765699",
@@ -538,7 +538,7 @@
     "views": 171645,
     "originVideos": "https://video.twimg.com/ext_tw_video/1883159868112355328/pu/vid/avc1/408x724/eGvSviLDkBwO8aaW.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883168871907197302",
@@ -558,7 +558,7 @@
     "views": 38203,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883171720238137450",
@@ -578,7 +578,7 @@
     "views": 33448,
     "originVideos": "https://video.twimg.com/ext_tw_video/1883171447251857408/pu/vid/avc1/720x1280/bRHntiVs3jLrI6Fn.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883171456236081152/pu/vid/avc1/720x1280/95oRh2t8P9uFWWEe.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883178431992774658",
@@ -598,7 +598,7 @@
     "views": 61905,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1883182503076430106",
@@ -617,6 +617,16 @@
     "retweets": 9,
     "views": 20559,
     "originVideos": "https://video.twimg.com/ext_tw_video/1883182269021794304/pu/vid/avc1/720x1280/jqOu_RBk3_OLg-uX.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883182285123624961/pu/vid/avc1/720x1280/mLE79v3vdTQ407Ak.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883182299380154369/pu/vid/avc1/720x1280/y40AiuDxuki6r0mG.mp4?tag=12,https://video.twimg.com/ext_tw_video/1883182318048915456/pu/vid/avc1/720x1280/uPiVkYC9VSOo4JaZ.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1883141119413977550",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-25 21:21:04",
+    "content": "トラック運転手の陸格さんは宿遷市から貴陽市までの総距離1,710キロを一人で運転し、運送会社からは27時間40分以内に配達することが義務付けられており、超過料金は差し引かれることになっていた。公式規制では、大型トラックの運転手は、4 時間の運転ごとに 20 分間の休憩を取ることが義務付けられています。",
     "hasFullContentTranslated": true,
     "hasPublished": false
   }
