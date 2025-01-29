@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1884634869705384265",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 00:09:02",
+    "content": "NewsGuard evaluated that DeepSeek's chatbot was only 17% accurate in providing news and information, ranking 10th out of 11 models including ChatGPT and Gemini.\nAccording to a report released by NewsGuard, a media credibility rating service, on Wednesday, DeepSeek's chatbot repeated false claims 30% of the time and gave vague or useless answers 53% of the time when answering news-related prompts, resulting in a failure rate of 83%. Other robots had an average failure rate of 62% in this evaluation.\nNewsGuard said it used the same 300 prompts for DeepSeek as it evaluates its Western counterparts, including 30 prompts based on 10 false claims spread online.",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/30/1884634869705384265_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 189,
+    "replies": 50,
+    "retweets": 32,
+    "views": 32612,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1884643123781120291",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 00:41:50",
+    "content": "January 28, Yunnan. A man posted a video saying that he sold a watch, but was told that the money he received was fraudulent funds, which caused his bank card, WeChat and Alipay to be frozen and unusable. He called and sent messages to the police many times, but received no response.\nThe man said that in order to prove his innocence, he wanted the buyer to come to the police station to make a statement, but the police said that as long as he could prove that he was just selling the watch, there was no need to ask the buyer to come to make a statement.\nLater, the police said that the watch was lost and might have flowed out of the country. They asked him if he was willing to return the fraudulent funds. The man refused and questioned the police's perfunctory attitude and failed his expectations.",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/30/1884643123781120291_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 79,
+    "replies": 27,
+    "retweets": 14,
+    "views": 24145,
+    "originVideos": "https://video.twimg.com/amplify_video/1884639211460100096/vid/avc1/408x724/L-5fgTRjGqlj85Hj.mp4?tag=14,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  }
+]
