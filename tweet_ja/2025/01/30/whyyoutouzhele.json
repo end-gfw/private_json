@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1884634869705384265",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 00:09:02",
+    "content": "NewsGuardの評価によると、ニュースや情報を提供するDeepSeekのチャットボットの精度はわずか17％で、ChatGPTやGeminiなど11モデル中10位にランクされている。\n メディアの信頼性評価サービスであるNewsGuardが水曜日に発表した報告書によると、DeepSeekのチャットボットは、ニュース関連のプロンプトに応答する際、30%の確率で虚偽の主張を繰り返し、53%の確率であいまいまたは役に立たない回答をし、失敗率が83に達したという。 %。%。このテストにおける他のロボットの平均故障率は 62% でした。\n NewsGuardは、西側の対応企業を評価するために使用したのと同じ300件のヒントをDeepSeekに対して使用したと述べ、その中にはオンラインで広まった10件の虚偽の主張に基づく30件のヒントが含まれていると述べた。",
+    "images": "/tweet/image/whyyoutouzhele/2025/01/30/1884634869705384265_0.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 189,
+    "replies": 50,
+    "retweets": 32,
+    "views": 32612,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1884643123781120291",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 00:41:50",
+    "content": "1月28日、雲南省。男性は時計を売ったものの、受け取ったお金は詐欺的な資金だったと告げられ、その結果、キャッシュカードとWeChat Alipayが凍結され、使用できなくなったという動画を投稿した。報告するようメッセージを送ったが、返答はなかった。\n 男性は、無実を証明するために購入者に警察署に来て調書を作ってもらいたいと話したが、警察は単に時計を販売しただけであることを証明できれば、購入者に記録を作成する必要はないと言ったという。来て記録を作りに来てください。\n その後、警察は時計が見つからず、海外に流出した可能性があると発表し、詐欺資金を返還する意思があるか尋ねたが、男性は応じず、警察のおざなりで無責任な態度に疑問を抱いた。彼の期待。",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/01/30/1884643123781120291_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 79,
+    "replies": 27,
+    "retweets": 14,
+    "views": 24145,
+    "originVideos": "https://video.twimg.com/amplify_video/1884639211460100096/vid/avc1/408x724/L-5fgTRjGqlj85Hj.mp4?tag=14,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  }
+]
