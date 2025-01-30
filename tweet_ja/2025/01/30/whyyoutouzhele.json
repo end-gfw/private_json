@@ -499,7 +499,7 @@
     "views": 40345,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1884981848960586065",
@@ -519,7 +519,7 @@
     "views": 126006,
     "originVideos": "https://video.twimg.com/ext_tw_video/1884981247921029121/pu/vid/avc1/720x1140/DQM7Y5MVil2OmOhi.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1884987315220885853",
@@ -539,7 +539,7 @@
     "views": 74890,
     "originVideos": "https://video.twimg.com/ext_tw_video/1884983179574226945/pu/vid/avc1/640x480/7NwDS8g8Xwy9VmJh.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1884994278415577394",
@@ -558,6 +558,26 @@
     "retweets": 23,
     "views": 31273,
     "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1884943052772696215",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 20:33:56",
+    "content": "1月26日、Guancha.comの副編集長は「私は『聊天作戦』を見ました。これは非論理的でひどい映画です。見ないでください」と書いた。以前、この映画は宣伝で「脚本が「潜水艦の秘密に関わるセリフなので、俳優もそのセリフを暗唱しなければならない。周囲を警戒しろ」というセリフがネットユーザーから苦情を招いた。",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1884984030552285624",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 23:21:03",
+    "content": "中国式教育を徹底的に暴露した短編映画「ウサギの訓練」が熱い議論を巻き起こしている。",
     "hasFullContentTranslated": true,
     "hasPublished": false
   }
