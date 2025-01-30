@@ -560,5 +560,25 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1884943052772696215",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 20:33:56",
+    "content": "On January 26, the deputy editor-in-chief of Guancha.com wrote: \"I have seen Operation Jiaolong, it is a illogical and bad movie, please avoid it.\" Previously, the film stated in its promotion that \"because the script lines involve submarine secrets, the actors must also be alert to their surroundings when reciting the lines,\" which caused netizens to complain.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1884984030552285624",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-01-30 23:21:03",
+    "content": "A short film titled \"Rabbit Training\" that deeply exposes Chinese-style education has sparked heated discussion.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
