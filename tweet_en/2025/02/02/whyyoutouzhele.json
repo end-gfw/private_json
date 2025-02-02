@@ -679,5 +679,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1886078449368039526",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-02 23:56:29",
+    "content": "The Wall Street Journal editorial board severely criticized Trump for launching a trade war with Canada, Mexico and China: the stupidest trade war in history. The report pointed out that leaving China aside, Trump's reasons for launching economic attacks on neighboring countries are completely unconvincing. He said that the purpose of imposing tariffs on Canada and Mexico is to solve the fentanyl crisis in the United States, but now it seems that fentanyl is just an excuse, and tariffs are not a means. Tariffs themselves are Trump's goal.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
