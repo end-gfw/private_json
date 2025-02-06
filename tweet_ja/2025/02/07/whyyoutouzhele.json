@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1887534608507691502",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-07 00:11:34",
+    "content": "https://pbs.twimg.com/ext_tw_video_thumb/1887534499153780739/pu/img/vlypTa6wcMBZbEDS.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/07/1887534608507691502_0.jpg,",
+    "isReply": true,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 31,
+    "replies": 5,
+    "retweets": 1,
+    "views": 15407,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1887534499153780739/pu/vid/avc1/608x1080/frPFVg8Qgu35lGyh.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1887543937558356117",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-07 00:48:38",
+    "content": "「左の王」と呼ばれた中国共産党中央宣伝部長の王仁志氏が2月4日、北京で92歳で亡くなった。\n 王仁志は江蘇省無錫市出身。1987年1月から1992年11月まで中国共産党中央宣伝部長を務めた。伝統的な思想を堅持し、「左の王」として知られた。\n 1990年、党内の左派は改革開放の方向性に影響を与えようと「資本主義か社会主義か」という論争を引き起こした。その論争は鄧小平の南巡視と経済体制が社会主義市場経済と決定されたことで終わった。この事件に関与した王仁志氏は、中国共産党第14回全国代表大会後に宣伝部長の職を解かれ、中国社会科学院に異動となった。",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/07/1887543937558356117_0.jpg,/tweet/image/whyyoutouzhele/2025/02/07/1887543937558356117_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 52,
+    "replies": 26,
+    "retweets": 2,
+    "views": 17396,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  }
+]
