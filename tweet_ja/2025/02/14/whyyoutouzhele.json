@@ -17,7 +17,7 @@
     "views": 20292,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1890075923497775364",
@@ -37,7 +37,7 @@
     "views": 21572,
     "originVideos": "https://video.twimg.com/ext_tw_video/1890074449447436288/pu/vid/avc1/1270x720/4F_SXvKtbauPEd9p.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1890083657966391313",
@@ -57,7 +57,7 @@
     "views": 7219,
     "originVideos": "https://video.twimg.com/ext_tw_video/1890080309145923584/pu/vid/avc1/720x1280/eKwp1KX_sxPHZbrk.mp4?tag=12,https://video.twimg.com/ext_tw_video/1890080312404963328/pu/vid/avc1/720x1280/uWJm9AWlbrrw5BfT.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1890087418952589706",
@@ -77,6 +77,6 @@
     "views": 170,
     "originVideos": "https://video.twimg.com/ext_tw_video/1890084028881281024/pu/vid/avc1/720x1394/KeEscBRpFL0qX2kf.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
