@@ -780,5 +780,15 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1891155047066587618",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-16 23:59:33",
+    "content": "February 16, Shanghai. The video circulating online about \"someone robbed the Agricultural Bank of China on Luxi Road\" showed billowing white smoke coming out of the ATM and a man holding a gun-like object next to it. The person who filmed it said: \"This guy is bombing the bank. He has a gun in his hand. Run, don't look at it.\"",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
