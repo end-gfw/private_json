@@ -197,7 +197,7 @@
     "views": 58705,
     "originVideos": "https://video.twimg.com/ext_tw_video/1891901004553322496/pu/vid/avc1/408x724/qMi4YqQeKgqtNxbE.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1891931013967925699",
@@ -217,6 +217,6 @@
     "views": 70445,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
