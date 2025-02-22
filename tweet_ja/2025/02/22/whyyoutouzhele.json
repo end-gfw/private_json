@@ -78,5 +78,25 @@
     "originVideos": "https://video.twimg.com/ext_tw_video/1892983331454668800/pu/vid/avc1/540x300/HJsoqW-FU0pFlzWn.mp4?tag=12,",
     "hasFullContentTranslated": true,
     "hasPublished": false
+  },
+  {
+    "id": "1893015684889878644",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-22 03:11:24",
+    "content": "2月18日夕方、雲南省昆明市盤龍区昆明プラザ中央B区4号館のエレベーターが故障の疑いで倒壊し、59歳のオーナーの魏さんが不幸にも死亡した。遺族らは「エレベーターは突然、１７階から地下２階まで急降下し、その後３３階まで急降下した」と話している。… https://pbs.twimg.com/media/GkVXo4_aoAA27Pi.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/22/1893015684889878644_0.jpg,/tweet/image/whyyoutouzhele/2025/02/22/1893015684889878644_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 272,
+    "replies": 83,
+    "retweets": 29,
+    "views": 63560,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
   }
 ]
