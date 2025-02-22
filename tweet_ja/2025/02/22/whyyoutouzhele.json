@@ -438,7 +438,7 @@
     "originVideos": "",
     "hasFullContentTranslated": false,
     "fullContent": "《Nature》发布全球机构撤稿率排名，济宁市第一人民医院在撤稿率排行榜上位居榜首，2014年-2024年间，其总发表论文中有超过5%被撤稿，共计100多篇。是全球平均水平的50倍。\n 分列撤稿率榜单二三名的是河北沧州市中心医院、河南大学淮河医院，撤稿率约为3.5%左右。在撤稿率前十的机构中，中国机构占据七席，均是医院以及医学院。\n  根据Dimensions的数据，在撤稿率超过1%的136家机构中，大约70%为中国机构，其中接近60%为医院或医科大学。\n 济宁市第一人民医院早在数年前就出现大规模的学术不端事件 。2020年，加州学术诚信调查员伊丽莎白·比克发现了400 多篇内容高度雷同，疑似来自统一论文工厂的论文，这些论文几乎全部来自中国的几十家医院，其中济宁市第一人民医院的论文最多，超过100篇。\n。",
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893294967814082734",
@@ -458,7 +458,7 @@
     "views": 71685,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893300313613815950",
@@ -478,7 +478,7 @@
     "views": 56794,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893302695991128191",
@@ -498,7 +498,7 @@
     "views": 47652,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893310392379621449",
@@ -518,7 +518,7 @@
     "views": 61900,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893315323975417924",
@@ -538,7 +538,7 @@
     "views": 131622,
     "originVideos": "https://video.twimg.com/ext_tw_video/1893313043473539072/pu/vid/avc1/1280x720/A0ABKHqRic6ByOVm.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893318261892170106",
@@ -558,7 +558,7 @@
     "views": 31167,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893321836307656766",
@@ -578,7 +578,7 @@
     "views": 45918,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1893324944114884846",
@@ -598,6 +598,6 @@
     "views": 31470,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
