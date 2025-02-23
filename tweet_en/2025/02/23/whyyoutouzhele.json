@@ -579,5 +579,25 @@
     "originVideos": "",
     "hasFullContentTranslated": true,
     "hasPublished": true
+  },
+  {
+    "id": "1893630096990453899",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-23 19:58:58",
+    "content": "Taiwan media NOWnews: The price of rice in Japan has been rising recently, reaching the highest level since 2006. According to Japanese media reports, one of the reasons is that Chinese in Japan buy a large amount of rice from farmers and take the opportunity to resell it for profit. The Japanese authorities have released 210,000 tons of \"reserve rice\" into the market to stabilize supply and suppress prices.",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1893680858948595801",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-23 23:16:31",
+    "content": "Zelensky said at the \"Ukraine 2025\" forum that he is ready to resign if necessary in exchange for Ukraine's joining NATO. \"If it can bring peace to Ukraine, if you really need me to leave my post, then I am willing to do so. If there are such conditions, I can exchange it for joining NATO. I am concerned about Ukraine's security today, not 20 years later, and I don't plan to be in power for decades.\"",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
   }
 ]
