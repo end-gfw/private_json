@@ -478,7 +478,7 @@
     "views": 76632,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894364969912906200",
@@ -498,7 +498,7 @@
     "views": 163463,
     "originVideos": "https://video.twimg.com/ext_tw_video/1894364252258942976/pu/vid/avc1/720x1280/hOMHbLLAKdxcw-pb.mp4?tag=12,https://video.twimg.com/ext_tw_video/1894364269015437314/pu/vid/avc1/720x1280/OdcloTEdEweRdRtK.mp4?tag=12,https://video.twimg.com/ext_tw_video/1894364292964913152/pu/vid/avc1/720x1280/oe13LHk7L4pvugd_.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894369418773426646",
@@ -518,7 +518,7 @@
     "views": 55364,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894372794026398051",
@@ -538,7 +538,7 @@
     "views": 108102,
     "originVideos": "https://video.twimg.com/ext_tw_video/1894372528916754433/pu/vid/avc1/720x1280/1RRswhgLgeo0Ckyu.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894379606712750567",
@@ -558,7 +558,7 @@
     "views": 53438,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894382858791428097",
@@ -578,7 +578,7 @@
     "views": 73219,
     "originVideos": "https://video.twimg.com/ext_tw_video/1894382087580651523/pu/vid/avc1/720x1280/QXU4FxE9VPdFwzoU.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894395386959478826",
@@ -598,7 +598,7 @@
     "views": 44602,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894401430515323212",
@@ -618,7 +618,7 @@
     "views": 68258,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894405230714065181",
@@ -638,7 +638,7 @@
     "views": 38271,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894413296088092923",
@@ -658,7 +658,7 @@
     "views": 75893,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894415862138114145",
@@ -678,7 +678,7 @@
     "views": 25955,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894417012669243796",
@@ -697,6 +697,36 @@
     "retweets": 0,
     "views": 19386,
     "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1894388440961294779",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-25 22:16:46",
+    "content": "昨年、陝西省公安部の警察官である呉永強氏は、陝西省党書記の王興寧氏を、犯罪組織の保護傘下に入ったなどの問題で実名で告発した。 最近、呉永強氏の妻は、夫が権利を守り、腐敗した役人を告発するために2月16日に北京に行き、「口論を挑発し、トラブルを引き起こした」疑いで警察に刑事拘留されたと語った。",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1894409469695856782",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-25 23:32:47",
+    "content": "財新：顧愛玲のトレーニング費用が財政予算に計上され注目を集め、年間額は4700万元を超える。これまで北京市体育局またはその直属機関は、顧愛玲と朱毅のトレーニング資金をそれぞれ2023年度と2024年度の予算に計上しており、プロジェクト資金はそれぞれ4707万6000元と145万元だった。財新の報道は削除された。",
+    "hasFullContentTranslated": true,
+    "hasPublished": false
+  },
+  {
+    "id": "1894413845843907037",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-25 23:48:06",
+    "content": "最近、北京市体育局は2025年度予算情報を発表しました。ネット上に流布された写真には、「年間プロジェクト支出実績表」の中に「当センターは顧愛玲と朱怡と『選手サービス協定』を締結した。顧愛玲と朱怡は引き続き北京を代表して各種目に参加し、当市の氷上・雪上スポーツの競争力とレベルを向上させ、2026年ミラノ冬季オリンピックへの出場権を獲得し、優秀な成績を達成するよう努める」という実績目標が記載されている。",
     "hasFullContentTranslated": true,
     "hasPublished": false
   }
