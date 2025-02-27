@@ -399,7 +399,7 @@
     "views": 332132,
     "originVideos": "https://video.twimg.com/ext_tw_video/1895080956865978368/pu/vid/avc1/720x720/xP2m9OFpExHNFuso.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895086630421307834",
@@ -419,7 +419,7 @@
     "views": 49571,
     "originVideos": "https://video.twimg.com/ext_tw_video/1895084416554409985/pu/vid/avc1/720x1280/skzWtjLsiYo0IyOw.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895090405819195604",
@@ -439,7 +439,7 @@
     "views": 163411,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895096490185646201",
@@ -459,7 +459,7 @@
     "views": 516724,
     "originVideos": "https://video.twimg.com/ext_tw_video/1895095670236946436/pu/vid/avc1/720x1280/58ZRFNiE70vsudbK.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895101995654205635",
@@ -480,7 +480,7 @@
     "originVideos": "",
     "hasFullContentTranslated": false,
     "fullContent": "彭博社：美国国务卿卢比奥称，美国不能让俄罗斯成为中国的“小伙伴”\n 卢比奥近日接受保守派媒体布莱巴特新闻网专访时表示，特朗普政府希望在不造成分裂的情况下淡化中俄这两个核大国之间的关系。\n “我不知道我们是否能完全成功地让他们（俄罗斯）脱离与中国的关系。我也不认为让中国和俄罗斯势不两立有利于全球稳定，因为他们都是核国家。”\n 卢比奥警告说，如果莫斯科成为北京“永远的小伙伴”，两个核大国一起对抗华盛顿，那对美国也不是好事。\n 鲁比奥在采访中将美中关系描述为“21世纪的大事”，并称华盛顿与北京和莫斯科都会有分歧和对抗，但强调与这两个国家保持关系很重要。\n“这些都是拥有核武库的大国和强国。他们可以在全球投射力量。我觉得在外交关系中我们已经失去成熟和理智的概念。”",
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895104827715396090",
@@ -500,7 +500,7 @@
     "views": 163244,
     "originVideos": "https://video.twimg.com/ext_tw_video/1895104406905069568/pu/vid/avc1/720x1280/ARq-NJQSKMnOCH5Y.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895110401995743344",
@@ -520,7 +520,7 @@
     "views": 98034,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895114113694736716",
@@ -540,7 +540,7 @@
     "views": 53300,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895118669862314307",
@@ -560,7 +560,7 @@
     "views": 46778,
     "originVideos": "https://video.twimg.com/ext_tw_video/1895117281002430465/pu/vid/avc1/720x1280/bCMmVEyAPNQvmQPX.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895122373990555767",
@@ -580,7 +580,7 @@
     "views": 206905,
     "originVideos": "https://video.twimg.com/ext_tw_video/1895121306560929792/pu/vid/avc1/408x724/CMbq01t471ToBMMW.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895126934276972886",
@@ -600,7 +600,7 @@
     "views": 38118,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895133744811647305",
@@ -620,7 +620,7 @@
     "views": 36126,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1895136641637065156",
@@ -640,6 +640,6 @@
     "views": 35292,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   }
 ]
