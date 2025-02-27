@@ -57,7 +57,7 @@
     "views": 8992,
     "originVideos": "",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
   },
   {
     "id": "1894797472335286714",
@@ -77,6 +77,46 @@
     "views": 1699,
     "originVideos": "https://video.twimg.com/ext_tw_video/1894795618985394176/pu/vid/avc1/720x1280/YN_WEk7HEMrk7TpF.mp4?tag=12,",
     "hasFullContentTranslated": true,
-    "hasPublished": false
+    "hasPublished": true
+  },
+  {
+    "id": "1894800325225390493",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-27 01:22:55",
+    "content": "2月26日、最高人民検察院は次のような声明を発表した。「一人が複数人を殺害する」、特に社会に対する重大かつ凶悪な復讐犯罪を法に基づいて厳重に処罰する。\n あるブロガーは、厳罰だけでは不十分だと指摘。司法の公平性と正義が保証され、国民が司法の正義を実感できれば、「社会に対する復讐犯罪」の大部分は未然に解決されるだろう。 https://pbs.twimg.com/media/GkuuEKWXwAAcTf9.jpg",
+    "images": "/tweet/image/whyyoutouzhele/2025/02/27/1894800325225390493_0.jpg,/tweet/image/whyyoutouzhele/2025/02/27/1894800325225390493_1.jpg,",
+    "videos": "",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 566,
+    "replies": 148,
+    "retweets": 60,
+    "views": 87092,
+    "originVideos": "",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
+  },
+  {
+    "id": "1894834757315551345",
+    "name": "李老师不是你老师",
+    "accountId": "whyyoutouzhele",
+    "sensitive": false,
+    "createdDate": "2025-02-27 03:39:45",
+    "content": "2月26日（公開）2011年、西安の易和坊不動産が売りに出されました。価格が周辺の不動産よりも安かったため、多くの所有者が購入を希望しました。しかし、開発業者の破産により、このプロジェクトは最終的に中止されました。 2022年には、新婚夫婦や息子の結婚式費用を払うために貯金を使い果たした高齢者など、何百人もの人々が未完成の建物に引っ越した。\n  ある飼い主は「娘に良い生活環境を与えたいだけ。何を間違えたのか」と語った。 https://pbs.twimg.com/ext_tw_video_thumb/1894832796922978305/pu/img/d8RRctK3M8br7FA2.jpg",
+    "images": "",
+    "videos": "/tweet/video/whyyoutouzhele/2025/02/27/1894834757315551345_0.jpg,",
+    "isReply": false,
+    "isRetweet": false,
+    "isSelfThread": false,
+    "likes": 352,
+    "replies": 124,
+    "retweets": 58,
+    "views": 109669,
+    "originVideos": "https://video.twimg.com/ext_tw_video/1894832796922978305/pu/vid/avc1/1280x720/NtZPPBFCm-zQJscp.mp4?tag=12,",
+    "hasFullContentTranslated": true,
+    "hasPublished": true
   }
 ]
